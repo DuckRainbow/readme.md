@@ -1,5 +1,5 @@
 def str_upper(value: str):
-    """Make string upper"""
+    """Make letters upper"""
     return value.upper()
 
 def str_title(value: str):
